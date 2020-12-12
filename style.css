@@ -1,0 +1,42 @@
+body{
+   
+    background-image: url(dogback.jpg);
+    object-fit: cover;
+    position: fixed;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+.imp{
+    text-decoration: none;
+    border: none;
+    padding: 1%;
+    background-color:rgb(85, 157, 224);
+}
+.div2{
+    text-align: center;
+    font-size: 300%;
+    color: rgb(4, 63, 63);
+}
+.btn{
+    border:5px solid green;
+    text-decoration: none;
+    background-color: yellow;
+    color:green;
+}
+.p1{ text-align: center;
+    font-size:30px;
+     margin-left:10%;
+     margin-right:10%;
+     padding-bottom: 5%;
+}
+.fun{
+    font-size: 70px;
+}
+.img1{
+    width:100%;
+    height: auto;
+
+}
